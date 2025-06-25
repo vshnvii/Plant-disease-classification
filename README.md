@@ -1,4 +1,4 @@
-# Plant Disease Detector
+# Plant Disease Classification
 
 A deep learning-based web app that classifies **plant leaf diseases** using **MobileNetV2** and **TensorFlow**, served through a **Streamlit** frontend.  
 Supports multiple plant types including potatoes, tomatoes, bell peppers, and more.
