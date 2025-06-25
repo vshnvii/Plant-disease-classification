@@ -23,6 +23,6 @@ Supports multiple plant types including potatoes, tomatoes, bell peppers, and mo
 ## How to Run Locally
 # 1. Clone the repo
 - git clone https://github.com/vshnvii/Plant-disease-classification.git
-cd Plant-disease-classification
+- cd Plant-disease-classification
 # 2. Streamlit
 - streamlit run app.py
